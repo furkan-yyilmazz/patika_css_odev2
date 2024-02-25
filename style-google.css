@@ -1,0 +1,42 @@
+body {
+    margin: 5px;
+    padding: 5px;
+}
+
+
+.search-box {
+    width: 100%;
+    background-color: rgb(214, 214, 214);
+}
+
+.main-box {
+    width: 100%;
+}
+
+.box-1 {
+    width: 39%;
+    background-color: aquamarine;
+    float: left;
+    height: 130px;
+    margin-right: 1%;
+    padding-top: 15px;
+}
+
+.box-2 {
+    width: 20%;
+    background-color: aquamarine;
+    float: left;
+    height: 130px;
+    margin-right: 1%;
+    padding-top: 15px;
+}
+
+.box-3 {
+    width: 39%;
+    background-color: aquamarine;
+    float: left;
+    height: 130px;
+    padding-top: 15px;
+}
+
+/* https://www.youtube.com/watch?v=lLcd4ji8iw8&t=332s */
